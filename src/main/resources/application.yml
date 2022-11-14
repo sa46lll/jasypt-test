@@ -1,0 +1,9 @@
+encrypt:
+  url: ENC(TROcz2ooIJ/bsW/R0HeB0w==)
+  username: ENC(vJzzDipBkWsDXjFrWYHj2Q==)
+  password: ENC(vJzzDipBkWsDXjFrWYHj2Q==)
+
+
+jasypt:
+  encryptor:
+    password: ${ENCRYPT_KEY}
